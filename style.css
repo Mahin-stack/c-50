@@ -1,0 +1,22 @@
+h1 {
+ color : green   
+}
+
+.header{
+    background-color: aqua;
+    display : flex;
+    justify-content  : space-between;
+    
+    }
+
+    .grid{
+        background-color: blueviolet;
+     display : flex;
+     flex-wrap : wrap;
+justify-content: space-evenly;
+    }
+
+    .footer{
+        display : flex;
+        justify-content:flex-end;
+    }
